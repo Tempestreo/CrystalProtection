@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 39bbaad8ca6a3aa45bb962c56257df63
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Crystal: {fileID: 6561921755724490340, guid: 4c322aa735e94cc40aa104ea2bfe5e97, type: 3}
+  - enemyAgent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
